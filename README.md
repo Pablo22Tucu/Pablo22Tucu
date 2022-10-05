@@ -1,5 +1,5 @@
-### Hi there 👋
-[![Linkedin: pablo-andres-amaya](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pablo-andres-amaya/) ](https://www.linkedin.com/in/pablo-andres-amaya/)
+### Hi there 👋 I Pablo Amaya
+[![Linkedin: pablo-andres-amaya](https://img.shields.io/badge/-Pablo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pablo-andres-amaya/) ](https://www.linkedin.com/in/pablo-andres-amaya/)
 [![GitHub Pablo22Tucu](https://img.shields.io/github/followers/Pablo?label=follow&style=social)](https://github.com/Pablo22Tucu)
 
 
@@ -9,10 +9,10 @@
 constante pabloTuc = {
   pronombres: "el" | "su",
   código: [Javascript, Mecanografiado, HTML, CSS, Ruby],
-  herramientas: [React, Redux, Node, Styled-Components, Jest, Docker],
+  herramientas: [React, Redux, Node, NEXT.js, Styled-Components, Jest, Docker],
   arquitectura: ["microservicios", "impulsado por eventos", "patrón de sistema de diseño"],
   
- desafío: "Estoy haciendo el desafío #100DaysOfCode centrado en reaccionar y mecanografiar"
+  desafío: "Estoy haciendo el desafío #100DaysOfCode centrado en reaccionar y mecanografiar"
 }
 ```
 <!--
