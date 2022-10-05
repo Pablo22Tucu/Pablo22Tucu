@@ -1,6 +1,6 @@
 ### Hi there 👋
 [![Linkedin: pablo-andres-amaya](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pablo-andres-amaya/) ](https://www.linkedin.com/in/pablo-andres-amaya/)
-[![GitHub Pablo22Tucu](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Pablo22Tucu)
+[![GitHub Pablo22Tucu](https://img.shields.io/github/followers/Pablo?label=follow&style=social)](https://github.com/Pablo22Tucu)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Un poco más sobre mí...  
