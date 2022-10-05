@@ -42,10 +42,9 @@ constante pabloTuc = {
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/pablo-andres-amaya/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/pablo_andres_amaya/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:pabloamaya87a@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-pabloamaya87a@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/pablo-andres-amaya/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Pablo%20Amaya-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/pablo_andres_amaya/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Pablo%20Amaya-red?style=flat-square&logo=instagram"></a>
+<a href="mailto:pabloamaya87a@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-pabloamaya87a@gmail.com-white?style=flat-square&logo=gmail"></a>
 </p>
 
 <!--
